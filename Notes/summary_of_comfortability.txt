@@ -1,0 +1,5 @@
+I worked with Noe on the code and we struggled to get the numbers to function independently.
+
+I was able to get the routing to work on the PCB and I felt comfortable with that portion.
+
+Overall I feel comfortable with the PCB design, but I need to brush up on coding in arduino.
